@@ -27,7 +27,7 @@ Acreditamos que a tecnologia deve ser **simples, útil e eficaz**. Por isso, apl
 | Projeto | Cliente | Descrição |
 |--------|---------|-----------|
 | **Portal Seller** | [Confweb](https://confweb.com.br) | Plataforma completa de gestão de sellers, com dashboard, relatórios, loja integrada e treinamentos. |
-| **Soluções educacionais** | [Digisonic Soluções Interativas](https://digisonic.com.br) | Ferramentas web e mobile para interatividade e apoio à educação. | 
+| **Soluções educacionais** | [Digisonic Soluções Interativas](https://digisonic.com.br) | Ferramentas web, lousas e displays(telas interativas) para interatividade e apoio à educação. | 
 | **educa.ai** | [Educa.AI](https://educa.ai) | Solução educacional interativa com conteúdos alinhados à BNCC para professores. |
 | **Gestão de espaços e clientes** | [Digiplace Escritórios](https://www.instagram.com/digiplace.bebedouro) | Sistema para gerenciamento de coworking, salas e clientes. |
 | **Ferramentas internas Simplify** | Interno | Soluções para automação, produtividade e gestão interna da equipe. |
