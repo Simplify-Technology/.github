@@ -22,7 +22,7 @@ Acreditamos que a tecnologia deve ser **simples, útil e eficaz**. Por isso, apl
 
 ---
 
-### 📦 Projetos em produção (privados)
+### 📦 Alguns dos nossos projetos
 
 | Projeto | Cliente | Descrição |
 |--------|---------|-----------|
