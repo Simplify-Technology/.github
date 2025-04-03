@@ -14,10 +14,10 @@ Acreditamos que a tecnologia deve ser **simples, útil e eficaz**. Por isso, apl
 ### 🛠️ Tecnologias que usamos
 
 - **Backend:** Laravel, PHP, Node.js  
-- **Frontend:** React, Tailwind CSS, Alpine.js  
+- **Frontend:** Blade, React, Tailwind CSS, Alpine.js  
 - **Mobile:** Flutter, React Native  
 - **Infraestrutura:** Docker, Ploi, CI/CD, GitHub Actions  
-- **Banco de dados:** MySQL, PostgreSQL, Firebase, MongoDB  
+- **Banco de dados:** MySQL, PostgreSQL  
 - **Outros:** Redis, WebSockets (Laravel Reverb), API RESTful, OAuth
 
 ---
