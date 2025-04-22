@@ -50,7 +50,8 @@ Acreditamos que a tecnologia deve ser **simples, útil e eficaz**. Por isso, apl
 
 Se você compartilha desses valores, adora resolver problemas com simplicidade e quer fazer parte de projetos desafiadores, conecte-se com a gente:
 
-- 📧 E-mail: contato@st.dev.br  
+- 📧 E-mail: contato@st.dev.br
+- 🔗 Site: [Simplify Technology](https://st.dev.br)
 - 💼 LinkedIn: [Simplify Technology LTDA](https://linkedin.com/company/technology-simplify)
 
 ---
